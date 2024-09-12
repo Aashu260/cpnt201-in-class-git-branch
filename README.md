@@ -2,7 +2,9 @@
 
 ## Table of Content
 
--[Jollof Rice](#jollof-rice) -[Chocolate Chip Cookie](#chocolate-chip-cookie) -[Butter Chicken](#butter-chciken)
+- [Jollof Rice](#jollof-rice)
+- [Chocolate Chip Cookie](#chocolate-chip-cookie)
+- [Butter Chicken](#butter-chciken)
 
 ## Jollof Rice
 
